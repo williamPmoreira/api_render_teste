@@ -1,5 +1,6 @@
 #pip install mysql-connector-python
 #pip install flask
+#pip install myapp
 
 import mysql.connector
 from datetime import datetime
